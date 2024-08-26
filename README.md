@@ -1,6 +1,7 @@
 # Desarrollos
 Desarrollo 1: Programa medición de palabra (longitud.py)
 Desarrollo 2: Programa ubicación de coordenada en cuadrantes (coordenadas.py)
+Opcional: EDGAR_HERNANDEZ_proyectoM2.py, contiene los dos desarrollos con los comentarios correspondientes, siguiendo las pautas del proyecto uCamp
 
 ## Desarrollado con
 * Python
